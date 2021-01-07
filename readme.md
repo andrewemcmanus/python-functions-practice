@@ -1,6 +1,6 @@
 # Lab: Practice
 
-No need to turn this in! Instead we will go over as a class together on the whiteboard, so make sure you have working code that you can explain for both problems! 
+No need to turn this in! Instead we will go over as a class together on the whiteboard, so make sure you have working code that you can explain for both problems!
 
 It is recommended to use [repl](repl.it) to write and test your code!
 
